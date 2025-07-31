@@ -1,0 +1,49 @@
+.remove-button{
+    background-color: rgb(195, 101, 101);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: 0.5s all ease;
+}
+.add-button{
+    background-color: rgba(133, 185, 179, 0.742);
+    color: rgba(6, 18, 16, 0.696);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 2px;
+    cursor: pointer;
+    transition: 0.5s all ease;
+}
+.purchase-button{
+     background-color: rgba(133, 185, 179, 0.742);
+    color: rgba(6, 18, 16, 0.696);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 2px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.5s all ease;
+}
+.add-button .purchase-button:hover{
+    background-color: rgba(146, 211, 203, 0.742);
+}
+.purchase-button:hover{
+    background-color: rgba(146, 211, 203, 0.742);
+}
+.remove-button:hover{
+    background-color: rgb(220, 116, 116);
+}
+.quantity-button{
+    background-color: rgba(6, 18, 16, 0.696);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 2px;
+    cursor: pointer;
+}

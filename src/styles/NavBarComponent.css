@@ -1,0 +1,9 @@
+@media (max-width: 991px){
+    .cart-icon{
+        display: none;
+    }
+}
+.shopping-list{
+    font-family: "Lato", sans-serif;
+    font-style: italic;
+} 
